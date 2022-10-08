@@ -18,6 +18,10 @@
 - [git for windows](https://gitforwindows.org/)
 - [github](https://github.com/)
 
+## markdown
+
+- [markdown](https://www.markdownguide.org/basic-syntax)
+
 # python
 
 - [conda](https://www.anaconda.com/)
