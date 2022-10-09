@@ -20,6 +20,7 @@
 
 # git
 
+- [git.md](https://github.com/asymy/windows_python_setup/blob/main/git.md)
 - [git for windows](https://gitforwindows.org/)
 - [github](https://github.com/)
 
