@@ -1,13 +1,18 @@
 # Text Editor
 
-- [Visual Studio Code](https://code.visualstudio.com/)
+## Desktop Apps
+
+- [Visual Studio Code](https://code.visualstudio.com/): [code.md](https://github.com/asymy/windows_python_setup/blob/main/code.md)
+- [atom](https://atom.io/)
+- [sublime](https://www.sublimetext.com/)
+- [emacs](https://www.gnu.org/software/emacs/)
+
+## Terminal Editors
+
 - [nano](https://www.nano-editor.org/)
 - [vim](https://www.vim.org/)
   - [neovim](https://neovim.io/)
   - [vi](https://en.wikipedia.org/wiki/Vi)
-- [emacs](https://www.gnu.org/software/emacs/)
-- [atom](https://atom.io/)
-- [sublime](https://www.sublimetext.com/)
 
 # Terminal
 
@@ -45,4 +50,6 @@
 
 - [pep8](https://pep8.org/)
 - [autopep8](https://pypi.org/project/autopep8/)
+
+
 
