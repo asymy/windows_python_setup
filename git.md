@@ -84,3 +84,10 @@ git pull origin
 ```bash
 git -h
 ```
+
+## .gitignore
+
+- list of files or folders that git should ignore
+- useful for ignoring compiler files, cache files, log files, data files etc
+- [gitignore.io](https://gitignore.io) has good generator
+  - input language, operating system, text editor etc that may create unnecessary files that should be ignored
